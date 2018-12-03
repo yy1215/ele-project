@@ -137,6 +137,8 @@
     text-align: right;
     font-size: 12px;
     background-color: rgb(238, 241, 246);
+    border: 1px solid #eee;
+    box-shadow: 3px 0px 3px #999;
   }
   .el-dropdown{
     line-height: 60px;
